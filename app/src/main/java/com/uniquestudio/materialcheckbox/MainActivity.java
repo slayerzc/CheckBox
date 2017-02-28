@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         checkBox.setListener(new CircleCheckBox.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(boolean isChecked) {
-                // do something
+                // do somethingwww
             }
         });
     }
