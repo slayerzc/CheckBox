@@ -19,6 +19,5 @@ public class MainActivity extends AppCompatActivity {
                 // do something
             }
         });
-        // TestGit
     }
 }
